@@ -3441,6 +3441,11 @@
         <desc>Entre 1987 et 2003, dans les Ardennes, Monique Olivier «rabat» pour son mari, Michel Fourniret, sept jeunes filles âgées de 12 à 21 ans, qu'il fait disparaître.</desc>
         <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1774603440996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="662a622b5e2370000800f392" start="20261008210555 +0000" stop="20261008231046 +0000">
+        <title>Faites Entrer L'Accusé: Human Bomb, prise d'otages à la maternelle</title>
+        <desc>Le 15 mai 1993, un peu avant 7h du matin, deux commandos de l'unité d'élite du RAID sont à l'école maternelle du Commandant Charcot, à Neuilly. Trois balles atteignent l'homme couché au sol, sa mort est instantanée.</desc>
+        <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1774603440996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="662a63275a402e00086bc8a5" start="20261008165736 +0000" stop="20261008172501 +0000">
         <title>Olive et Tom, champions de foot</title>
         <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
@@ -5863,11 +5868,6 @@ Pourquoi est-ce seulement la sous-espèce des paresseux à trois doigts qui est 
         <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20261008203000 +0000" stop="20261008211000 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
     <programme channel="654a58dbf9cc82000868f0fb" start="20261008164721 +0000" stop="20261008171721 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
@@ -6178,10 +6178,10 @@ Pourquoi est-ce seulement la sous-espèce des paresseux à trois doigts qui est 
         <desc>This weekly series breaks down what you need to know for every NFL matchup ahead of Week 5 of the 2026 NFL season.</desc>
         <icon src="https://images.pluto.tv/series/6a6c6438cd7852640b1fdd25/tile_1787860280460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a6a02bd93ac783fe20d1bf7" start="20261008205900 +0000" stop="20261008215900 +0000">
-        <title>NFL Channel</title>
-        <desc>Accédez gratuitement et sans limite à tout l'univers du football américain 24h/24 et 7j/7 ! Couverture en direct des jours de match, rediffusions, émissions originales, séries primées aux Emmy Awards et bien plus encore vous attendent sur la chaîne NFL.</desc>
-        <icon src="https://images.pluto.tv/series/6a6cab7ee65bfef07b898e52/tile_1785506686998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6a6a02bd93ac783fe20d1bf7" start="20261008205900 +0000" stop="20261008212900 +0000">
+        <title>NFL Pro</title>
+        <desc>Trevor Sikkema and Brett Kollmann rank their Week 5 game picks and tally up their scores from Week 4 in this season-long head-to-head competition.</desc>
+        <icon src="https://images.pluto.tv/series/6a89655f4996e40ab20917f3/tile_1788452980794.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20261008202104 +0000" stop="20261008212831 +0000">
         <title>Mammon</title>
@@ -19456,6 +19456,11 @@ Pour encourager Giaiko, Doraemon a une solution : le Ventre Magique.</desc>
         <title>On m'appelle King</title>
         <desc>Un chasseur de primes traque une bande de trafiquants d'armes à la frontière méxicaine.</desc>
         <icon src="https://images.pluto.tv/series/68622ef51210c6c91971e33b/tile_1768333007994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cca3e2ec452d0008af3a65" start="20261009090502 +0000" stop="20261009102831 +0000">
+        <title>Thunder In The Sun</title>
+        <desc>Au 19ème siècle, un groupe de français part en Californie pour devenir fermier.</desc>
+        <icon src="https://images.pluto.tv/series/66222318d90eb10013db1c57/tile_1782314281542.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="662a622b5e2370000800f392" start="20261009040525 +0000" stop="20261009055555 +0000">
         <title>Faites Entrer L'Accusé: Youssouf Fofana, le cerveau du gang des barbares</title>
